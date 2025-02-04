@@ -4,7 +4,7 @@
 This is a Python script that estimates the constant speed consumption
 curve of an electric vehicle (EV) using various physical parameters.
 
-It is for you if you want to use TomTom's [generic routing API](https://developer.tomtom.com/routing-api/documentation/routing/calculate-route) or the dedicated [long-range EV routing API](https://developer.tomtom.com/routing-api/documentation/extended-routing/long-distance-ev-routing) but don't know
+It is for you if you want to use TomTom's [generic routing API](https://developer.tomtom.com/routing-api/documentation/routing/calculate-route) or the dedicated [long-range EV routing API](https://developer.tomtom.com/long-distance-ev-routing-api/documentation/tomtom-maps/long-distance-ev-routing) but don't know
 how to set the [`constantSpeedConsumptionInkWhPerHundredkm`](https://developer.tomtom.com/routing-api/documentation/routing/common-routing-parameters#the-electric-consumption-model) parameter.
 
 The script requires Python 3.7 but does not have any other dependencies.
